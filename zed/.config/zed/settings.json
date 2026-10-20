@@ -1,6 +1,6 @@
 // Zed settings from frameshell: Frameshell theme (colors from frame theme), JetBrains Mono, file tree on the left,
-// no AI features. This file is a link into ~/frameshell/zed, so changes made here or in
-// Zed's settings UI end up in the repo.
+// no AI features. This file is a link into the zed module (~/.local/share/frameshell/modules/zed),
+// so changes made here or in Zed's settings UI end up in that repo.
 {
   // Switches off the agent panel, inline assistant and edit predictions
   "cli_default_open_behavior": "existing_window",
